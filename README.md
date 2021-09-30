@@ -1,5 +1,5 @@
 # TicketReservationSystemDatabaseManagement
-Sabanci University Fall 2020-2021 Database Systems Term Project
+Fall 2020-2021 Database Systems Term Project
 - ER Diagram 
 - Relational Model
 - SQL Queries
